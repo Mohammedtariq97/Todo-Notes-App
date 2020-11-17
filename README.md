@@ -1,5 +1,5 @@
 # Todo-Notes-App
-Create own Todo for the day
+
 App consist of: 
 1.Constraint Layout
 2.Shared Preferences
