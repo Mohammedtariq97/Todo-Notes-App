@@ -1,6 +1,6 @@
 # Todo-Notes-App
 
-App consist of: 
+This Android app consist of: 
 1.Constraint Layout
 2.Shared Preferences
 3.RecyclerView 
