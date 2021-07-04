@@ -1,13 +1,16 @@
 # Todo-Notes-App
 
-This Android app consist of: 
-1.Constraint Layout
-2.Shared Preferences
-3.RecyclerView 
-4.Database
-5.Singleton
-6.Notification
-7.Networking
-8.Glide
-9.Fragment
-10.Work Manager
+## General Info
+This app will help you to create your own todo for the day.
+
+## Technologies
+App is created with:
+* Constraint Layout
+* Shared Preferences
+* RecyclerView 
+* Room persistent library
+* Singleton
+* Notification
+* Networking
+* Glide
+* Work Manager
